@@ -19,5 +19,8 @@
 	"bugs": {
 		"url": "https://github.com/anthonyvelez/testing-framework/issues"
 	},
-	"homepage": "https://github.com/anthonyvelez/testing-framework#readme"
+	"homepage": "https://github.com/anthonyvelez/testing-framework#readme",
+	"dependencies": {
+		"chalk": "^4.0.0"
+	}
 }
